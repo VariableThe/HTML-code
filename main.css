@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: #ff8a31;
+    text-shadow: 1px 1px 1px #1d1f21;
+
+}
+body{
+    
+     background: linear-gradient(to right, #b877e7, #c290e7);
+     
+}
+.container{
+    
+    background-color: #6f02c0;
+    box-shadow: 2px 2px 5px #59009c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+p{
+    text-align: center
+    
+}
+form {
+  width: 1000%; /* adjust this value to control the form's width */
+}
